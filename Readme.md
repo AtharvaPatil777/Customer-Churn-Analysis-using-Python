@@ -128,37 +128,6 @@ Customer-Churn-Analysis/
 
 ---
 
-## 📷 Project Screenshots
-
-### Customer Churn Distribution
-
-(Add Screenshot Here)
-
----
-
-### Contract Type vs Churn
-
-(Add Screenshot Here)
-
----
-
-### Monthly Charges vs Churn
-
-(Add Screenshot Here)
-
----
-
-### Tenure vs Churn
-
-(Add Screenshot Here)
-
----
-
-### Correlation Heatmap
-
-(Add Screenshot Here)
-
----
 
 ## 🚀 Future Improvements
 
